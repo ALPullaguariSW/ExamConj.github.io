@@ -4,7 +4,7 @@ Este es un proyecto de aplicación de tablero que utiliza React.js y Firebase Re
 
 ## Clonar el Repositorio
 
-Puedes clonar este repositorio utilizando el siguiente comando:
+Puedes clonar este repositorio utilizando el siguiente link:
 
 [REPOSITORIO](https://github.com/ALPullaguariSW/ExamConj.github.io.git)
 
