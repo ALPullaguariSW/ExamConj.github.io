@@ -1,4 +1,4 @@
-# Dashboard App
+# Desarrollo de un Sistema de Inventario de Bodega
 
 Este es un proyecto de aplicación de tablero que utiliza React.js y Firebase Realtime Database para almacenar y mostrar datos de órdenes.
 
