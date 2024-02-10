@@ -110,7 +110,7 @@ const Signup = () => {
 
         <p className="text-center mt-4">
           Already have an account?{" "}
-          <NavLink to="/login" className="text-indigo-500">
+          <NavLink to="/" className="text-indigo-500">
             Log in
           </NavLink>
         </p>
